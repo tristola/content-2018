@@ -74,6 +74,7 @@ module.exports = {
         {
           title: "Lightning talks",
         },
+        require("../talks/toni-ristola"),
         require("../talks/varya-stepanova"),
         require("../talks/sara-vieira-lightning"),
       ],
